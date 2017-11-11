@@ -28,6 +28,7 @@
     <module>modules/demo1</module>
     <module>modules/demo2</module>
       <module>modules/web1</module>
+      <module>modules/cache</module>
   </modules>
   <parent>
     <groupId>org.springframework.boot</groupId>
